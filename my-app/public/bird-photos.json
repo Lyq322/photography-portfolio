@@ -1,0 +1,1405 @@
+{
+  "American Crow": [
+    {
+      "date": "",
+      "location": "Stanford University at Stanford, California",
+      "id": 1,
+      "notes": "Unhealthy food for crows (or is it a raven)",
+      "info": "",
+      "tags": ["food", "id", "fav"],
+      "position": 1
+    }
+  ],
+  "American Goldfinch": [
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["id"],
+      "position": 1
+    }
+  ],
+  "American Robin": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["id"],
+      "position": 1
+    }
+  ],
+  "Anna's Hummingbird": [
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 1,
+      "notes": "The sun is never in the right angle...",
+      "info": "Male",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 2,
+      "notes": "I think this is an Anna's hummingbird? Please correct me if I'm wrong.",
+      "info": "Female",
+      "tags": ["food", "flying"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 3,
+      "notes": "I think this is an Anna's hummingbird? Please correct me if I'm wrong.",
+      "info": "Female",
+      "tags": ["flying"],
+      "position": 3
+    }
+  ],
+  "Barn Swallow": [
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 1,
+      "notes": "First good photo of flying barn swallow!!! They're so pretty :D",
+      "info": "",
+      "tags": ["flying", "fav"],
+      "position": 3
+    },
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 2,
+      "notes": "There's mud in its mouth, used to build nests.",
+      "info": "",
+      "tags": ["fav", "id"],
+      "position": 2
+    },
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 3,
+      "notes": "Favorite photo!!",
+      "info": "",
+      "tags": ["id", "fav"],
+      "position": 1
+    },
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 4,
+      "notes": "There's mud in its mouth, used to build nests.",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 5,
+      "notes": "There's mud in its mouth, used to build nests.",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }
+  ],
+  "Bewick's Wren": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Black Phoebe": [
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 0,
+      "notes": "",
+      "info": "Northern",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 1,
+      "notes": "",
+      "info": "Northern",
+      "tags": ["fav"],
+      "position": 4
+    }
+  ],
+  "Black Vulture": [],
+  "Black-bellied Whistling-Duck": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "Fulgens",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 2,
+      "notes": "",
+      "info": "Fulgens",
+      "tags": ["fav"],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 3,
+      "notes": "",
+      "info": "Fulgens",
+      "tags": ["id", "fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 4,
+      "notes": "?????",
+      "info": "Fulgens",
+      "tags": ["funny"],
+      "position": 4
+    }
+  ],
+  "Black-chinned Hummingbird": [],
+  "Black-crested Titmouse": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    }
+  ],
+  "Blue Jay": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [""],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": ["serious", "fav"],
+      "position": 3
+    }
+  ],
+  "Blue-gray Gnatcatcher": [
+  ],
+  "Brewer's Blackbird": [
+    {
+      "date": "",
+      "location": "Outside a random Subway",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Outside a random Subway",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    }
+  ],
+  "Brown Pelican": [
+    {
+      "date": "",
+      "location": "Santa Monica Pier at Santa Monica, California",
+      "id": 1,
+      "notes": "",
+      "info": "Breeding adults and juveniles (California)",
+      "tags": [""],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "Santa Monica Pier at Santa Monica, California",
+      "id": 2,
+      "notes": "",
+      "info": "Breeding adult (California)",
+      "tags": [""],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Santa Monica Pier at Santa Monica, California",
+      "id": 3,
+      "notes": "",
+      "info": "Juvenile",
+      "tags": [""],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "Santa Monica Pier at Santa Monica, California",
+      "id": 4,
+      "notes": "",
+      "info": "Juveniles",
+      "tags": ["fav"],
+      "position": 4
+    }
+  ],
+  "Brown-headed Cowbird": [
+    {
+      "date": "06/18/24",
+      "location": "Highlands Metro Park at Columbus, Ohio",
+      "id": 1,
+      "notes": "",
+      "info": "Juvenile",
+      "tags": ["id", "fav"],
+      "position": 4
+    },
+    {
+      "date": "06/18/24",
+      "location": "Highlands Metro Park at Columbus, Ohio",
+      "id": 0,
+      "notes": "",
+      "info": "Juvenile",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 2,
+      "notes": "",
+      "info": "Breeding Males",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Bushtit": [],
+  "California Towhee": [
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Canada Goose": [
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    }
+  ],
+  "Carolina Chickadee": [],
+  "Carolina Wren": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    }
+  ],
+  "Caspian Tern": [],
+  "Cedar Waxwing": [
+    {
+      "date": "",
+      "location": "Austin, Texas",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Chestnut-backed Chickadee": [
+    {
+      "date": "",
+      "location": "Coyote Point Recreation Area at San Mateo, California",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["food"],
+      "position": 1
+    }
+  ],
+  "Chimney Swift": [],
+  "Chipping Sparrow": [
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    }
+  ],
+  "Cliff Swallow": [],
+  "Common Grackle": [
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "06/19/24",
+      "location": "Glacier Ridge Park at Columbus, Ohio",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }
+  ],
+  "Common Nighthawk": [],
+  "Common Yellowthroat": [],
+  "Dark-eyed Junco": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Double-crested Cormorant": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Downy Woodpecker": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Eastern Bluebird": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 4,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 5,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Eastern Phoebe": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Eurasian Collared-Dove": [],
+  "European Starling": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Field Sparrow": [],
+  "Gray Catbird": [],
+  "Great Blue Heron": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Great Egret": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Great-tailed Grackle": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 4,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 5,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 6,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }],
+  "Green Heron": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 2
+    }
+  ],
+  "House Finch": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "House Sparrow": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Indigo Bunting": [],
+  "Killdeer": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 2
+    }
+  ],
+  "Lesser Goldfinch": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Mallard": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Mourning Dove": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Northern Cardinal": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 4,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Northern Mockingbird": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 4,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 5,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 6,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 7,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 8,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 9,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 10,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 11,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Northern Shoveler": [
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [""],
+      "position": 2
+    }
+  ],
+  "Oak Titmouse": [
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }
+  ],
+  "Pied-billed Grebe": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Purple Martin": [],
+  "Pygmy Nuthatch": [],
+  "Red-bellied Woodpecker": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Red-shouldered Hawk": [],
+  "Red-tailed Hawk": [],
+  "Red-winged Blackbird": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    }
+  ],
+  "Rock Pigeon": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Ruby-throated Hummingbird": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Scissor-tailed Flycatcher": [
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }
+  ],
+  "Spotted Sandpiper": [],
+  "Snowy Egret": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Song Sparrow": [],
+  "Spotted Towhee": [
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }
+  ],
+  "Tree Swallow": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 3
+    }
+  ],
+  "Tufted Titmouse": [
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    }
+  ],
+  "Turkey Vulture": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    }
+  ],
+  "Warbling Vireo": [],
+  "Western Bluebird": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    }
+  ],
+  "Western Gull": [
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 4,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 5,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 6,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 7,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 4
+    }
+  ],
+  "Western Kingbird": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Whimbrel": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 0,
+      "notes": "",
+      "info": "",
+      "tags": ["hidden"],
+      "position": 1
+    }
+  ],
+  "White-breasted Nuthatch": [],
+  "White-throated Swift": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "White-winged Dove": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 3
+    }
+  ],
+  "Wild Turkey": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Willow Flycatcher": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    }
+  ],
+  "Yellow Warbler": [],
+  "Yellow-crowned Night Heron": [
+    {
+      "date": "",
+      "location": "",
+      "id": 1,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 2
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 2,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 1
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 3,
+      "notes": "",
+      "info": "",
+      "tags": ["fav"],
+      "position": 3
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 4,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 4
+    },
+    {
+      "date": "",
+      "location": "",
+      "id": 5,
+      "notes": "",
+      "info": "",
+      "tags": [],
+      "position": 5
+    }
+  ]
+}
