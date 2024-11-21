@@ -16,12 +16,10 @@ function LifeList() {
   }, []);
 
   return (
-    <div className='w-full p-10'>
+    <div className='w-full p-10 bg-gray-800 text-white'>
       <h1 className='font-bold text-3xl mb-4 text-center'>Life List</h1>
       <div className='grid grid-cols-3 gap-1'>
-        {Object.keys(birdPhotos).map((species, index) => {
-          if (birdPhotos[species].length == 0) return;
-          return (
+        {Object.keys(birdPhotos).map((species, index) => (
             <div key={index} className='flex flex-col gap-2 items-center relative'>
               {birdPhotos[species].length != 0 && (
                 <>
@@ -59,9 +57,9 @@ function LifeList() {
                 </>                                   
               )}
             </div>
-          );
-        })}
-        {Object.keys(birdPhotos).map((species, index) => (
+          )
+        )}
+        {/*Object.keys(birdPhotos).map((species, index) => (
           <React.Fragment key={index}>
             {birdPhotos[species].length == 0 && (
               <div
@@ -73,12 +71,12 @@ function LifeList() {
                   className='h-20'
                 />
                 <p>{species}</p>
-                {/*<div className='absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-60 transition-opacity duration-200'></div>
-                <p className='font-raleway absolute bottom-0 left-0 w-full text-center opacity-0 group-hover:opacity-100 group-hover:translate-y-0 transform translate-y-full transition-all duration-300 text-white mb-2'>{species}</p>*/}
+                {<div className='absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-60 transition-opacity duration-200'></div>
+                <p className='font-raleway absolute bottom-0 left-0 w-full text-center opacity-0 group-hover:opacity-100 group-hover:translate-y-0 transform translate-y-full transition-all duration-300 text-white mb-2'>{species}</p>}
               </div>
             )}
           </React.Fragment>
-        ))}
+        ))*/}
       </div>
       <ImageModal isOpen={modalOpen} onClose={() => setModalOpen(false)} imgSrc={openedPhoto} />
     </div>

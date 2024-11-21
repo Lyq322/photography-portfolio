@@ -9,7 +9,7 @@ function NavBar() {
         <div className='flex flex-row gap-16'>
           <Link to='/' className='self-center'>
             <div className='flex flex-row items-center'>
-              <img src='/logo.png' alt='logo' className='h-16' />
+              
               <p className='font-bold text-2xl'>Yuqing</p>
             </div>
           </Link>

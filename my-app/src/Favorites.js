@@ -1,13 +1,43 @@
 import React, { useState, useEffect } from 'react';
 import ImageModal from './ImageModal';
 
+const limit = 4;
+
 function Favorites() {
   const [birdPhotos, setBirdPhotos] = useState([]);
   const [modalOpen, setModalOpen] = useState(false);
   const [openedPhoto, setOpenedPhoto] = useState();
-  
-  const order = [5, 47, 8, 1, 44, 35, 41, 51, 27, 15, 21, 2, 6, 36, 20, 11, 39, 25, 37, 26, 19, 17, 31, 40, 18, 48, 16, 38, 46, 14, 45, 22, 4, 42, 12, 30, 32, 43, 10, 28, 33, 3, 24, 34, 49, 29, 9, 7, 23, 50, 13];
 
+  const [loading, setLoading] = useState(false);
+  const [page, setPage] = useState(1);
+
+  useEffect(() => {
+    if (loading) {
+      setPage((page) => page + 1);
+      setLoading(false);
+    }
+  }, [loading]);
+
+
+  const debounce = (func, delay) => {
+    let timeoutId;
+    return function (...args) {
+      if (timeoutId) {
+        clearTimeout(timeoutId);
+      }
+      timeoutId = setTimeout(() => {
+        func(...args);
+      }, delay);
+    };
+  };
+
+  /*const handleScroll = debounce(() => {
+    if (document.body.scrollHeight - 300 < window.scrollY + window.innerHeight && !loading) {
+      setLoading(() => true);
+    }
+  });
+  window.addEventListener("scroll", debounce(handleScroll, 500));*/
+  
   useEffect(() => {
     fetch('/bird-photos.json')
       .then(response => response.json())
@@ -15,42 +45,40 @@ function Favorites() {
         for (const species in data) {
           data[species] = data[species].filter(photo => photo.tags.includes('fav'));
         }
-        let randomizedPhotos = [];
-        let i = 1;
+        let photos = [];
+        let i = 0;
         for (const species in data) {
           for (const photo in data[species]) {
-            randomizedPhotos.push({
+            photos.push({
               species: species,
               info: data[species][photo],
               id: i
             });
+            i++;
           }
-          i++;
         }
-        console.log('randomizedPhotos', randomizedPhotos)
-        setBirdPhotos(randomizedPhotos);
+        setBirdPhotos(photos);
       });
   }, []);
 
   return (
     <div className='w-full p-10 columns-2 xl:columns-3 space-y-1 gap-1'>
-      {birdPhotos.length != 0 && order.map((index, i) => {
-        console.log('index', index - 1, birdPhotos[index - 1])
+      {birdPhotos.length !== 0 && birdPhotos.slice(0, page * limit).map((photo, i) => {
         return (
           <div 
             key={i} 
-            className='relative group'
+            className={`relative group col-start-${(i % 3) + 1}`}
             onClick={() => {
               setModalOpen(true);
-              setOpenedPhoto(`birds/${birdPhotos[index - 1]?.species}/${birdPhotos[index - 1]?.info.id}.jpg`);
+              setOpenedPhoto(`birds/${photo.species}/${photo.info.id}.jpg`);
             }}
           >
             <img 
-              src={`birds/${birdPhotos[index - 1]?.species}/${birdPhotos[index - 1]?.info.id}.jpg`} 
-              alt={birdPhotos[index - 1]?.species} 
+              src={`birds/${photo.species}/${photo.info.id}.jpg`} 
+              alt={photo.species} 
             />
             <div className='absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-60 transition-opacity duration-200'></div>
-            <p className='font-raleway absolute bottom-0 left-0 w-full text-center opacity-0 group-hover:opacity-100 group-hover:translate-y-0 transform translate-y-full transition-all duration-300 text-white mb-2'>{birdPhotos[index - 1]?.species}</p>
+            <p className='font-raleway absolute bottom-0 left-0 w-full text-center opacity-0 group-hover:opacity-100 group-hover:translate-y-0 transform translate-y-full transition-all duration-300 text-white mb-2'>{photo.species}</p>
           </div>
         );
       })}
