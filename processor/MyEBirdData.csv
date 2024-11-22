@@ -1,0 +1,518 @@
+Submission ID,Common Name,Scientific Name,Taxonomic Order,Count,State/Province,County,Location ID,Location,Latitude,Longitude,Date,Time,Protocol,Duration (Min),All Obs Reported,Distance Traveled (km),Area Covered (ha),Number of Observers,Breeding Code,Observation Details,Checklist Comments,ML Catalog Numbers
+S193589439,Black-bellied Whistling-Duck,Dendrocygna autumnalis,233,50,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S192559836,Black-bellied Whistling-Duck,Dendrocygna autumnalis,233,2,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S198516817,Black-bellied Whistling-Duck,Dendrocygna autumnalis,233,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Black-bellied Whistling-Duck,Dendrocygna autumnalis,233,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Black-bellied Whistling-Duck,Dendrocygna autumnalis,233,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S178319515,Black-bellied Whistling-Duck,Dendrocygna autumnalis,233,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-30,11:14 PM,eBird - Casual Observation,,0,,,1
+S187213978,Graylag Goose,Anser anser,264,X,GB-ENG,London,L34772535,Hyde Park,51.505811,-.164224,2023-06-03,,eBird - Casual Observation,,0,,,1
+S189360383,Swan Goose (Domestic type),Anser cygnoides (Domestic type),271,2,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S197934852,Canada Goose,Branta canadensis,330,30,US-MA,Middlesex,L5062615,Magazine Beach Park,42.3550079,-71.1136758,2024-10-05,09:30 AM,eBird - Traveling Count,60,1,.805,,1
+S178049170,Canada Goose,Branta canadensis,330,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027471
+S178319436,Canada Goose,Branta canadensis,330,10,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S190913218,Cackling/Canada Goose,Branta hutchinsii/canadensis,351,4,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S187213906,Mute Swan,Cygnus olor,365,X,GB-ENG,London,L34772535,Hyde Park,51.505811,-.164224,2023-06-03,,eBird - Casual Observation,,0,,,1
+S187214239,Black Swan,Cygnus atratus,367,X,GB-ENG,London,L34772535,Hyde Park,51.505811,-.164224,2023-06-03,,eBird - Casual Observation,,0,,,1
+S189360383,Black Swan,Cygnus atratus,367,5,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1,,,,621967091 621967092
+S189360383,Whooper Swan,Cygnus cygnus,378,3,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1,,,,621963931
+S187213867,Egyptian Goose,Alopochen aegyptiaca,405,X,GB-ENG,London,L34772535,Hyde Park,51.505811,-.164224,2023-06-03,,eBird - Casual Observation,,0,,,1
+S193589439,Blue-winged Teal,Spatula discors,468,100,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S193589439,Northern Shoveler,Spatula clypeata,483,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S185669628,Northern Shoveler,Spatula clypeata,483,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-04-10,,eBird - Casual Observation,,0,,,1
+S201275185,Gadwall,Mareca strepera,487,6,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S201275185,American Wigeon,Mareca americana,497,8,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S201277678,American Wigeon,Mareca americana,497,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S190924184,Mallard,Anas platyrhynchos,525,2,US-CA,Los Angeles,L198793,Del Rey Lagoon Park,33.9610802,-118.4507315,2024-08-10,11:20 AM,eBird - Stationary Count,10,1,,,1
+S178319436,Mallard,Anas platyrhynchos,525,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1,,,,622027567
+S178318969,Mallard,Anas platyrhynchos,525,X,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,11:05 PM,eBird - Casual Observation,,0,,,1
+S201275185,Mallard,Anas platyrhynchos,525,4,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,Mallard,Anas platyrhynchos,525,3,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S191929947,Mallard,Anas platyrhynchos,525,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S201277678,Mallard,Anas platyrhynchos,525,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192559836,Mallard (Domestic type),Anas platyrhynchos (Domestic type),528,10,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S189360383,Mallard (Domestic type),Anas platyrhynchos (Domestic type),528,30,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S201275185,Northern Pintail,Anas acuta,571,4,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S201277678,Ring-necked Duck,Aythya collaris,648,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S185669562,Ring-necked Duck,Aythya collaris,648,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-04-06,,eBird - Casual Observation,,0,,,1
+S201277678,duck sp.,Anatidae (duck sp.),767,50,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S182135589,Wild Turkey,Meleagris gallopavo,1242,1,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S190924184,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),1832,100,US-CA,Los Angeles,L198793,Del Rey Lagoon Park,33.9610802,-118.4507315,2024-08-10,11:20 AM,eBird - Stationary Count,10,1,,,1
+S190923477,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),1832,10,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S178319436,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),1832,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S191929947,Eurasian Collared-Dove,Streptopelia decaocto,1994,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S178319668,Eurasian Collared-Dove,Streptopelia decaocto,1994,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:16 PM,eBird - Casual Observation,,0,,,1
+S191059714,Eurasian Collared-Dove,Streptopelia decaocto,1994,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S187084681,Spotted Dove,Spilopelia chinensis,2027,X,CN-11,,L34740534,北京朝阳站,39.94398,116.508575,2024-07-15,04:54 PM,eBird - Casual Observation,,0,,,1
+S189360383,Spotted Dove,Spilopelia chinensis,2027,2,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S185648397,White-winged Dove,Zenaida asiatica,2350,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,White-winged Dove,Zenaida asiatica,2350,5,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,White-winged Dove,Zenaida asiatica,2350,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,White-winged Dove,Zenaida asiatica,2350,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S196756136,White-winged Dove,Zenaida asiatica,2350,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S176780249,White-winged Dove,Zenaida asiatica,2350,5,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178639748,White-winged Dove,Zenaida asiatica,2350,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,White-winged Dove,Zenaida asiatica,2350,3,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S178656211,White-winged Dove,Zenaida asiatica,2350,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-01,11:50 AM,eBird - Traveling Count,20,1,.805,,1
+S191059714,White-winged Dove,Zenaida asiatica,2350,4,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S182135589,Mourning Dove,Zenaida macroura,2373,4,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S190913218,Mourning Dove,Zenaida macroura,2373,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,Mourning Dove,Zenaida macroura,2373,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Mourning Dove,Zenaida macroura,2373,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S193589439,Mourning Dove,Zenaida macroura,2373,5,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Mourning Dove,Zenaida macroura,2373,3,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,Mourning Dove,Zenaida macroura,2373,2,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S191929947,Mourning Dove,Zenaida macroura,2373,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Mourning Dove,Zenaida macroura,2373,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Mourning Dove,Zenaida macroura,2373,6,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S176780249,Mourning Dove,Zenaida macroura,2373,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178652638,Mourning Dove,Zenaida macroura,2373,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S191059714,pigeon/dove sp.,Columbidae sp.,2814,5,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S187801622,pigeon/dove sp.,Columbidae sp.,2814,4,CN-11,,L34771865,西府颐园,39.883122,116.267765,2024-07-20,08:20 AM,eBird - Traveling Count,10,1,.322,,1
+S178319698,Common Nighthawk,Chordeiles minor,3439,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:18 PM,eBird - Casual Observation,,0,,,1
+S192566985,Chimney Swift,Chaetura pelagica,3842,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Chimney Swift,Chaetura pelagica,3842,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S178319756,Chimney Swift,Chaetura pelagica,3842,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-30,11:18 PM,eBird - Casual Observation,,0,,,1
+S178639748,Chimney Swift,Chaetura pelagica,3842,3,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Chimney Swift,Chaetura pelagica,3842,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S178320169,White-throated Swift,Aeronautes saxatalis,4103,X,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-30,11:23 PM,eBird - Casual Observation,,0,,,1
+S182135589,Ruby-throated Hummingbird,Archilochus colubris,4747,1,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S185648397,Ruby-throated Hummingbird,Archilochus colubris,4747,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S185648397,Black-chinned Hummingbird,Archilochus alexandri,4748,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S178319729,Black-chinned Hummingbird,Archilochus alexandri,4748,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:18 PM,eBird - Casual Observation,,0,,,1
+S191929947,Ruby-throated/Black-chinned Hummingbird,Archilochus colubris/alexandri,4751,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S178049170,Anna's Hummingbird,Calypte anna,4758,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027476
+S178319436,Anna's Hummingbird,Calypte anna,4758,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S190913218,Allen's Hummingbird,Selasphorus sasin,4774,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190913218,Rufous/Allen's Hummingbird,Selasphorus rufus/sasin,4781,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190913218,hummingbird sp.,Trochilidae sp.,5157,8,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S200391778,Sora,Porzana carolina,5398,1,US-TX,Williamson,L37329422,Back of Randalls,30.5431838,-97.8657161,2024-10-26,06:30 PM,eBird - Stationary Count,30,1,,,1
+S189360383,Eurasian Moorhen,Gallinula chloropus,5405,5,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1,,,,621967104
+S189360383,Eurasian Coot,Fulica atra,5430,10,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1,,,,621967107
+S198516817,American Coot,Fulica americana,5443,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,American Coot,Fulica americana,5443,20,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S193589439,Black-necked Stilt,Himantopus mexicanus,5713,20,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1,,,,623673079
+S193589439,American Avocet,Recurvirostra americana,5723,5,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S190913218,Killdeer,Charadrius vociferus,5770,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S193589439,Killdeer,Charadrius vociferus,5770,8,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Killdeer,Charadrius vociferus,5770,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,Killdeer,Charadrius vociferus,5770,4,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2,,,,622027606 622027607
+S192559836,Killdeer,Charadrius vociferus,5770,1,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S198516817,Killdeer,Charadrius vociferus,5770,19,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Killdeer,Charadrius vociferus,5770,20,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S196756136,Killdeer,Charadrius vociferus,5770,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S176780249,Killdeer,Charadrius vociferus,5770,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178639748,Killdeer,Charadrius vociferus,5770,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Killdeer,Charadrius vociferus,5770,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S190913218,Whimbrel,Numenius phaeopus,5951,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178319436,Whimbrel,Numenius phaeopus,5951,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1,,,,622027568
+S193589439,Spotted Sandpiper,Actitis macularius,6064,20,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S178319541,Spotted Sandpiper,Actitis macularius,6064,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-30,11:15 PM,eBird - Casual Observation,,0,,,1
+S193589439,Solitary Sandpiper,Tringa solitaria,6067,X,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S193589439,Lesser Yellowlegs,Tringa flavipes,6083,20,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S190923477,Greater Yellowlegs,Tringa melanoleuca,6092,1,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S201275185,Greater Yellowlegs,Tringa melanoleuca,6092,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S193589439,Least Sandpiper,Calidris minutilla,6162,100,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S193589439,Pectoral Sandpiper,Calidris melanotos,6163,X,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S187073913,Black-tailed Gull,Larus crassirostris,6444,X,CN-21,,L34643198,老虎滩,38.876636,121.675162,2024-07-15,01:26 PM,eBird - Casual Observation,,0,,,1
+S197691136,Ring-billed Gull,Larus delawarensis,6455,X,US-MA,Suffolk,L37099443,Boston,42.360575,-71.057279,2024-10-05,09:55 PM,eBird - Casual Observation,,0,,,1
+S190913218,Western Gull,Larus occidentalis,6461,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178024563,Western Gull,Larus occidentalis,6461,2,US-CA,San Mateo,L5162517,Bayside Park,37.5914058,-122.3590279,2024-05-29,10:00 AM,eBird - Stationary Count,10,0,,,2
+S178319436,Western Gull,Larus occidentalis,6461,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S190913218,gull sp.,Larinae sp.,6548,10,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190923477,gull sp.,Larinae sp.,6548,10,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S178049170,gull sp.,Larinae sp.,6548,10,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178068632,gull sp.,Larinae sp.,6548,2,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S190913218,Caspian Tern,Hydroprogne caspia,6644,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,Caspian Tern,Hydroprogne caspia,6644,3,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Caspian Tern,Hydroprogne caspia,6644,4,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S189360383,Little Grebe,Tachybaptus ruficollis,6749,2,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S182258825,Pied-billed Grebe,Podilymbus podiceps,6776,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,10:30 AM,eBird - Stationary Count,10,0,,,2,,,,622027634
+S198516817,Pied-billed Grebe,Podilymbus podiceps,6776,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Pied-billed Grebe,Podilymbus podiceps,6776,6,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S178319436,Western Grebe,Aechmophorus occidentalis,6809,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1,,,,622027551
+S190913218,Brandt's Cormorant,Urile penicillatus,7305,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190913218,Double-crested Cormorant,Nannopterum auritum,7342,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190923477,Double-crested Cormorant,Nannopterum auritum,7342,3,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S178319436,Double-crested Cormorant,Nannopterum auritum,7342,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178319017,Double-crested Cormorant,Nannopterum auritum,7342,X,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,11:06 PM,eBird - Casual Observation,,0,,,1
+S201275185,Double-crested Cormorant,Nannopterum auritum,7342,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S190913218,cormorant sp.,Phalacrocoracidae sp.,7375,4,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190913218,Yellow-crowned Night Heron,Nyctanassa violacea,7504,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S198516817,Yellow-crowned Night Heron,Nyctanassa violacea,7504,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S178319573,Yellow-crowned Night Heron,Nyctanassa violacea,7504,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-30,11:15 PM,eBird - Casual Observation,,0,,,1
+S189360383,Black-crowned Night Heron,Nycticorax nycticorax,7513,1,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S201275185,Little Blue Heron,Egretta caerulea,7542,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S190913218,Snowy Egret,Egretta thula,7557,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190924184,Snowy Egret,Egretta thula,7557,10,US-CA,Los Angeles,L198793,Del Rey Lagoon Park,33.9610802,-118.4507315,2024-08-10,11:20 AM,eBird - Stationary Count,10,1,,,1
+S190923477,Snowy Egret,Egretta thula,7557,1,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S178319436,Snowy Egret,Egretta thula,7557,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1,,,,622027573 622027576
+S201275185,Snowy Egret,Egretta thula,7557,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S185648397,Green Heron,Butorides virescens,7611,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Green Heron,Butorides virescens,7611,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S178319556,Green Heron,Butorides virescens,7611,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-30,11:15 PM,eBird - Casual Observation,,0,,,1
+S178639748,Green Heron,Butorides virescens,7611,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Green Heron,Butorides virescens,7611,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S201275185,Great Egret,Ardea alba,7635,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,Great Egret,Ardea alba,7635,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S192559836,Great Egret,Ardea alba,7635,2,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S191929947,Great Egret,Ardea alba,7635,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Great Egret,Ardea alba,7635,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Great Egret,Ardea alba,7635,5,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S176780249,Great Egret,Ardea alba,7635,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S190913218,Great Blue Heron,Ardea herodias,7658,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178024563,Great Blue Heron,Ardea herodias,7658,1,US-CA,San Mateo,L5162517,Bayside Park,37.5914058,-122.3590279,2024-05-29,10:00 AM,eBird - Stationary Count,10,0,,,2
+S178049170,Great Blue Heron,Ardea herodias,7658,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027479
+S201275185,Great Blue Heron,Ardea herodias,7658,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,Great Blue Heron,Ardea herodias,7658,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S192559836,Great Blue Heron,Ardea herodias,7658,1,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S191929947,Great Blue Heron,Ardea herodias,7658,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Great Blue Heron,Ardea herodias,7658,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Great Blue Heron,Ardea herodias,7658,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S178024563,white egret sp.,Egretta/Ardea sp.,7688,1,US-CA,San Mateo,L5162517,Bayside Park,37.5914058,-122.3590279,2024-05-29,10:00 AM,eBird - Stationary Count,10,0,,,2
+S190913218,Brown Pelican,Pelecanus occidentalis,7697,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190923477,Brown Pelican,Pelecanus occidentalis,7697,2,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S178319436,Brown Pelican,Pelecanus occidentalis,7697,4,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S201275185,Black Vulture,Coragyps atratus,7716,8,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S191929947,Black Vulture,Coragyps atratus,7716,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S176780249,Black Vulture,Coragyps atratus,7716,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S191060301,Black Vulture,Coragyps atratus,7716,20,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-08-11,10:15 AM,eBird - Traveling Count,45,1,.483,,1
+S178319685,Black Vulture,Coragyps atratus,7716,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:17 PM,eBird - Casual Observation,,0,,,1
+S191059714,Black Vulture,Coragyps atratus,7716,2,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S193589439,Turkey Vulture,Cathartes aura,7720,6,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S200391778,Turkey Vulture,Cathartes aura,7720,1,US-TX,Williamson,L37329422,Back of Randalls,30.5431838,-97.8657161,2024-10-26,06:30 PM,eBird - Stationary Count,30,1,,,1
+S185648397,Turkey Vulture,Cathartes aura,7720,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Turkey Vulture,Cathartes aura,7720,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Turkey Vulture,Cathartes aura,7720,5,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S178319678,Turkey Vulture,Cathartes aura,7720,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:17 PM,eBird - Casual Observation,,0,,,1
+S178656211,Turkey Vulture,Cathartes aura,7720,3,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-01,11:50 AM,eBird - Traveling Count,20,1,.805,,1
+S201277678,Osprey,Pandion haliaetus,7737,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S201275185,Cooper's Hawk,Astur cooperii,8183,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S198516817,Cooper's Hawk,Astur cooperii,8183,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S191059948,Cooper's Hawk,Astur cooperii,8183,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,10:30 AM,eBird - Traveling Count,20,1,.805,,1,,,,622398761
+S183550406,Mississippi Kite,Ictinia mississippiensis,8292,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-23,,eBird - Casual Observation,,0,,,1
+S178319436,Red-shouldered Hawk,Buteo lineatus,8391,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S201275185,Red-shouldered Hawk,Buteo lineatus,8391,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S191929947,Red-shouldered Hawk,Buteo lineatus,8391,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Red-shouldered Hawk,Buteo lineatus,8391,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S192566985,Red-shouldered Hawk,Buteo lineatus,8391,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Red-shouldered Hawk,Buteo lineatus,8391,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,Red-shouldered Hawk,Buteo lineatus,8391,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S178658488,Red-tailed Hawk,Buteo jamaicensis,8410,X,US-CA,Los Angeles,L32686236,Century City Building,34.058893,-118.414703,2024-05-26,,eBird - Casual Observation,,0,,,1
+S201275185,Red-tailed Hawk,Buteo jamaicensis,8410,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S198866173,Red-tailed Hawk,Buteo jamaicensis,8410,1,US-TX,Williamson,L37329422,Back of Randalls,30.5431838,-97.8657161,2024-10-11,06:30 PM,eBird - Casual Observation,,0,,,1
+S190913218,hawk sp.,Accipitridae sp. (hawk sp.),8480,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S193589439,hawk sp.,Accipitridae sp. (hawk sp.),8480,1,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Belted Kingfisher,Megaceryle alcyon,10202,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182135589,Red-bellied Woodpecker,Melanerpes carolinus,11088,2,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S201275185,Red-bellied Woodpecker,Melanerpes carolinus,11088,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S191929947,Red-bellied Woodpecker,Melanerpes carolinus,11088,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Red-bellied Woodpecker,Melanerpes carolinus,11088,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Red-bellied Woodpecker,Melanerpes carolinus,11088,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Red-bellied Woodpecker,Melanerpes carolinus,11088,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756637,Red-bellied Woodpecker,Melanerpes carolinus,11088,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S187802314,Great Spotted Woodpecker,Dendrocopos major,11236,2,CN-11,,L34912376,天元公园 (Tianyuan Park),39.8774223,116.2605895,2024-07-20,08:40 AM,eBird - Traveling Count,60,1,2.414,,1
+S182135589,Downy Woodpecker,Dryobates pubescens,11287,4,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S201275185,Downy Woodpecker,Dryobates pubescens,11287,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S201277678,Ladder-backed Woodpecker,Dryobates scalaris,11299,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S196756136,Ladder-backed Woodpecker,Dryobates scalaris,11299,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S192566985,Downy/Ladder-backed Woodpecker,Dryobates pubescens/scalaris,11311,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S198516817,Northern Flicker,Colaptes auratus,11785,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Northern Flicker,Colaptes auratus,11785,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S190913218,American Kestrel,Falco sparverius,11913,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S201275185,American Kestrel,Falco sparverius,11913,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S198516817,American Kestrel,Falco sparverius,11913,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S202056095,Monk Parakeet,Myiopsitta monachus,12701,2,US-TX,Travis,L37951688,El Alma,30.259991,-97.755638,2024-11-10,12:38 PM,eBird - Casual Observation,,0,,,1
+S182253943,Willow Flycatcher,Empidonax traillii,16785,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S191929947,Least Flycatcher,Empidonax minimus,16796,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S190913218,Black Phoebe,Sayornis nigricans,16831,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,Black Phoebe,Sayornis nigricans,16831,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027481
+S178319436,Black Phoebe,Sayornis nigricans,16831,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S193589439,Eastern Phoebe,Sayornis phoebe,16840,1,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Eastern Phoebe,Sayornis phoebe,16840,5,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S198516817,Eastern Phoebe,Sayornis phoebe,16840,7,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Eastern Phoebe,Sayornis phoebe,16840,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S178319810,Eastern Phoebe,Sayornis phoebe,16840,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:19 PM,eBird - Casual Observation,,0,,,1
+S192566985,Great Crested Flycatcher,Myiarchus crinitus,17165,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S178319825,Western Kingbird,Tyrannus verticalis,17298,X,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-30,11:19 PM,eBird - Casual Observation,,0,,,1
+S178639748,Western Kingbird,Tyrannus verticalis,17298,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Western Kingbird,Tyrannus verticalis,17298,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S198516817,Scissor-tailed Flycatcher,Tyrannus forficatus,17318,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S176780249,Scissor-tailed Flycatcher,Tyrannus forficatus,17318,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178639748,Scissor-tailed Flycatcher,Tyrannus forficatus,17318,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Scissor-tailed Flycatcher,Tyrannus forficatus,17318,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S193589439,White-eyed Vireo,Vireo griseus,18966,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S185648397,White-eyed Vireo,Vireo griseus,18966,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,White-eyed Vireo,Vireo griseus,18966,4,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S201277678,White-eyed Vireo,Vireo griseus,18966,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,White-eyed Vireo,Vireo griseus,18966,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,White-eyed Vireo,Vireo griseus,18966,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,White-eyed Vireo,Vireo griseus,18966,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S182253943,Warbling Vireo,Vireo gilvus,19045,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S182135589,Blue Jay,Cyanocitta cristata,21066,3,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S193589439,Blue Jay,Cyanocitta cristata,21066,1,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Blue Jay,Cyanocitta cristata,21066,3,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S192559836,Blue Jay,Cyanocitta cristata,21066,2,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S185648397,Blue Jay,Cyanocitta cristata,21066,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Blue Jay,Cyanocitta cristata,21066,4,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Blue Jay,Cyanocitta cristata,21066,9,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Blue Jay,Cyanocitta cristata,21066,5,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Blue Jay,Cyanocitta cristata,21066,4,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Blue Jay,Cyanocitta cristata,21066,6,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,Blue Jay,Cyanocitta cristata,21066,10,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S178639748,Blue Jay,Cyanocitta cristata,21066,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178319787,Blue Jay,Cyanocitta cristata,21066,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:19 PM,eBird - Casual Observation,,0,,,1
+S178656211,Blue Jay,Cyanocitta cristata,21066,5,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-01,11:50 AM,eBird - Traveling Count,20,1,.805,,1
+S191059714,Blue Jay,Cyanocitta cristata,21066,2,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S187802314,Azure-winged Magpie,Cyanopica cyanus,21167,20,CN-11,,L34912376,天元公园 (Tianyuan Park),39.8774223,116.2605895,2024-07-20,08:40 AM,eBird - Traveling Count,60,1,2.414,,1
+S189360383,Azure-winged Magpie,Cyanopica cyanus,21167,10,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S187801622,Azure-winged Magpie,Cyanopica cyanus,21167,6,CN-11,,L34771865,西府颐园,39.883122,116.267765,2024-07-20,08:20 AM,eBird - Traveling Count,10,1,.322,,1
+S187802314,Oriental Magpie,Pica serica,21242,10,CN-11,,L34912376,天元公园 (Tianyuan Park),39.8774223,116.2605895,2024-07-20,08:40 AM,eBird - Traveling Count,60,1,2.414,,1
+S189360383,Oriental Magpie,Pica serica,21242,1,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S186708967,Oriental Magpie,Pica serica,21242,X,CN-21,,L34644122,棒棰岛,38.893504,121.707323,2024-07-13,11:46 AM,eBird - Casual Observation,,0,,,1
+S187801622,Oriental Magpie,Pica serica,21242,2,CN-11,,L34771865,西府颐园,39.883122,116.267765,2024-07-20,08:20 AM,eBird - Traveling Count,10,1,.322,,1
+S190913218,American Crow,Corvus brachyrhynchos,21333,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190923477,American Crow,Corvus brachyrhynchos,21333,2,US-CA,Los Angeles,L2999551,Playa del Rey Beach,33.959237,-118.453238,2024-08-10,11:30 AM,eBird - Stationary Count,30,1,,,1
+S178049170,American Crow,Corvus brachyrhynchos,21333,10,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,American Crow,Corvus brachyrhynchos,21333,10,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,American Crow,Corvus brachyrhynchos,21333,2,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S201275185,American Crow,Corvus brachyrhynchos,21333,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,American Crow,Corvus brachyrhynchos,21333,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S185648397,American Crow,Corvus brachyrhynchos,21333,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S201277678,American Crow,Corvus brachyrhynchos,21333,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,American Crow,Corvus brachyrhynchos,21333,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,American Crow,Corvus brachyrhynchos,21333,8,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,American Crow,Corvus brachyrhynchos,21333,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S189360383,Large-billed Crow,Corvus macrorhynchos,21362,2,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S182135589,Carolina Chickadee,Poecile carolinensis,21836,2,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S193589439,Carolina Chickadee,Poecile carolinensis,21836,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S192559836,Carolina Chickadee,Poecile carolinensis,21836,2,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S178319978,Carolina Chickadee,Poecile carolinensis,21836,X,US-TX,Williamson,L32607251,Cottonwood Creek,30.534018,-97.806239,2024-05-30,11:21 PM,eBird - Casual Observation,,0,,,1
+S185648397,Carolina Chickadee,Poecile carolinensis,21836,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Carolina Chickadee,Poecile carolinensis,21836,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Carolina Chickadee,Poecile carolinensis,21836,12,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Carolina Chickadee,Poecile carolinensis,21836,4,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Carolina Chickadee,Poecile carolinensis,21836,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Carolina Chickadee,Poecile carolinensis,21836,3,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S197934852,Black-capped Chickadee,Poecile atricapillus,21841,1,US-MA,Middlesex,L5062615,Magazine Beach Park,42.3550079,-71.1136758,2024-10-05,09:30 AM,eBird - Traveling Count,60,1,.805,,1
+S197691087,Black-capped Chickadee,Poecile atricapillus,21841,X,US-MA,Suffolk,L37099443,Boston,42.360575,-71.057279,2024-10-05,09:54 PM,eBird - Casual Observation,,0,,,1
+S178049170,Chestnut-backed Chickadee,Poecile rufescens,21870,3,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027482
+S178319436,Chestnut-backed Chickadee,Poecile rufescens,21870,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,Chestnut-backed Chickadee,Poecile rufescens,21870,1,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S178068632,Oak Titmouse,Baeolophus inornatus,21926,2,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S182135589,Tufted Titmouse,Baeolophus bicolor,21936,2,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S182253943,Tufted Titmouse,Baeolophus bicolor,21936,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S201275185,Black-crested Titmouse,Baeolophus atricristatus,21939,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S192559836,Black-crested Titmouse,Baeolophus atricristatus,21939,2,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S185648397,Black-crested Titmouse,Baeolophus atricristatus,21939,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S198516817,Black-crested Titmouse,Baeolophus atricristatus,21939,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Black-crested Titmouse,Baeolophus atricristatus,21939,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Black-crested Titmouse,Baeolophus atricristatus,21939,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756637,Black-crested Titmouse,Baeolophus atricristatus,21939,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S178319986,Black-crested Titmouse,Baeolophus atricristatus,21939,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:22 PM,eBird - Casual Observation,,0,,,1
+S191059714,Black-crested Titmouse,Baeolophus atricristatus,21939,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S193589439,Bank Swallow,Riparia riparia,23821,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S178319436,Tree Swallow,Tachycineta bicolor,23834,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S182253943,Tree Swallow,Tachycineta bicolor,23834,4,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2,,,,622027615 622027616 622027617
+S185648397,Purple Martin,Progne subis,23851,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S178652638,Purple Martin,Progne subis,23851,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S190913218,Northern Rough-winged Swallow,Stelgidopteryx serripennis,23876,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S190913218,Barn Swallow,Hirundo rustica,23957,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,Barn Swallow,Hirundo rustica,23957,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Barn Swallow,Hirundo rustica,23957,3,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S193589439,Barn Swallow,Hirundo rustica,23957,20,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S182253943,Barn Swallow,Hirundo rustica,23957,10,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2,,,,622027629 622027630 622027631 622027632
+S192559836,Barn Swallow,Hirundo rustica,23957,8,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S185648397,Barn Swallow,Hirundo rustica,23957,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Barn Swallow,Hirundo rustica,23957,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S192566985,Barn Swallow,Hirundo rustica,23957,5,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S178639748,Barn Swallow,Hirundo rustica,23957,5,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Barn Swallow,Hirundo rustica,23957,4,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S191060301,Barn Swallow,Hirundo rustica,23957,5,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-08-11,10:15 AM,eBird - Traveling Count,45,1,.483,,1
+S191059714,Barn Swallow,Hirundo rustica,23957,10,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S187802314,Barn Swallow,Hirundo rustica,23957,4,CN-11,,L34912376,天元公园 (Tianyuan Park),39.8774223,116.2605895,2024-07-20,08:40 AM,eBird - Traveling Count,60,1,2.414,,1
+S178320218,Cliff Swallow,Petrochelidon pyrrhonota,24051,X,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-30,11:25 PM,eBird - Casual Observation,,0,,,1
+S186705541,Light-vented Bulbul,Pycnonotus sinensis,24481,X,CN-21,,L34643198,老虎滩,38.876636,121.675162,2024-07-13,10:51 AM,eBird - Casual Observation,,0,,,1
+S187801622,Light-vented Bulbul,Pycnonotus sinensis,24481,1,CN-11,,L34771865,西府颐园,39.883122,116.267765,2024-07-20,08:20 AM,eBird - Traveling Count,10,1,.322,,1
+S178319436,Bushtit,Psaltriparus minimus,25018,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,Bushtit,Psaltriparus minimus,25018,2,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S198516817,Ruby-crowned Kinglet,Corthylio calendula,26595,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Ruby-crowned Kinglet,Corthylio calendula,26595,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S182135589,White-breasted Nuthatch,Sitta carolinensis,26640,2,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S178049170,Pygmy Nuthatch,Sitta pygmaea,26675,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S182135589,Blue-gray Gnatcatcher,Polioptila caerulea,26874,1,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S193589439,Blue-gray Gnatcatcher,Polioptila caerulea,26874,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S185671585,Northern House Wren,Troglodytes aedon,26942,X,US-OH,Franklin,L34388197,Karrer Middle School,40.115952,-83.166199,2024-06-26,,eBird - Casual Observation,,0,,,1
+S193589439,Carolina Wren,Thryothorus ludovicianus,27107,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Carolina Wren,Thryothorus ludovicianus,27107,4,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S192559836,Carolina Wren,Thryothorus ludovicianus,27107,4,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S185648397,Carolina Wren,Thryothorus ludovicianus,27107,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Carolina Wren,Thryothorus ludovicianus,27107,4,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Carolina Wren,Thryothorus ludovicianus,27107,5,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Carolina Wren,Thryothorus ludovicianus,27107,5,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Carolina Wren,Thryothorus ludovicianus,27107,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Carolina Wren,Thryothorus ludovicianus,27107,8,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,Carolina Wren,Thryothorus ludovicianus,27107,5,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S178319994,Carolina Wren,Thryothorus ludovicianus,27107,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:22 PM,eBird - Casual Observation,,0,,,1
+S178049170,Bewick's Wren,Thryomanes bewickii,27121,3,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Bewick's Wren,Thryomanes bewickii,27121,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,Bewick's Wren,Thryomanes bewickii,27121,2,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S178639748,Bewick's Wren,Thryomanes bewickii,27121,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S191059714,Bewick's Wren,Thryomanes bewickii,27121,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S178049170,European Starling,Sturnus vulgaris,27571,6,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,European Starling,Sturnus vulgaris,27571,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S185648397,European Starling,Sturnus vulgaris,27571,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S198516817,European Starling,Sturnus vulgaris,27571,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S176780249,European Starling,Sturnus vulgaris,27571,5,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178652638,European Starling,Sturnus vulgaris,27571,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S186705558,Crested Myna,Acridotheres cristatellus,27647,X,CN-21,,L34643198,老虎滩,38.876636,121.675162,2024-07-13,10:52 AM,eBird - Casual Observation,,0,,,1
+S179283368,Gray Catbird,Dumetella carolinensis,27758,X,US-MD,Prince George's,L32828367,University of Maryland,38.983532,-76.937166,2024-06-03,11:07 PM,eBird - Casual Observation,,0,,,1
+S182253943,Gray Catbird,Dumetella carolinensis,27758,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S196756637,Brown Thrasher,Toxostoma rufum,27795,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S190913218,Northern Mockingbird,Mimus polyglottos,27870,2,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S197934852,Northern Mockingbird,Mimus polyglottos,27870,2,US-MA,Middlesex,L5062615,Magazine Beach Park,42.3550079,-71.1136758,2024-10-05,09:30 AM,eBird - Traveling Count,60,1,.805,,1,,,,624649570
+S193589439,Northern Mockingbird,Mimus polyglottos,27870,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Northern Mockingbird,Mimus polyglottos,27870,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S185648397,Northern Mockingbird,Mimus polyglottos,27870,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Northern Mockingbird,Mimus polyglottos,27870,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Northern Mockingbird,Mimus polyglottos,27870,15,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Northern Mockingbird,Mimus polyglottos,27870,7,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S196756136,Northern Mockingbird,Mimus polyglottos,27870,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S176780249,Northern Mockingbird,Mimus polyglottos,27870,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178639748,Northern Mockingbird,Mimus polyglottos,27870,3,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S191060301,Northern Mockingbird,Mimus polyglottos,27870,3,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-08-11,10:15 AM,eBird - Traveling Count,45,1,.483,,1
+S178656211,Northern Mockingbird,Mimus polyglottos,27870,3,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-01,11:50 AM,eBird - Traveling Count,20,1,.805,,1
+S191059714,Northern Mockingbird,Mimus polyglottos,27870,5,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S191059948,Northern Mockingbird,Mimus polyglottos,27870,6,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,10:30 AM,eBird - Traveling Count,20,1,.805,,1
+S201277678,Eastern Bluebird,Sialia sialis,27881,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S178319860,Eastern Bluebird,Sialia sialis,27881,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:19 PM,eBird - Casual Observation,,0,,,1
+S178656211,Eastern Bluebird,Sialia sialis,27881,2,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-01,11:50 AM,eBird - Traveling Count,20,1,.805,,1
+S191059714,Eastern Bluebird,Sialia sialis,27881,3,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S178049170,Western Bluebird,Sialia mexicana,27891,3,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027485
+S178319436,Western Bluebird,Sialia mexicana,27891,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S201275185,Hermit Thrush,Catharus guttatus,28081,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S187802314,Chinese Blackbird,Turdus mandarinus,28188,2,CN-11,,L34912376,天元公园 (Tianyuan Park),39.8774223,116.2605895,2024-07-20,08:40 AM,eBird - Traveling Count,60,1,2.414,,1
+S182135589,American Robin,Turdus migratorius,28313,2,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S178049170,American Robin,Turdus migratorius,28313,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S201275185,American Robin,Turdus migratorius,28313,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,American Robin,Turdus migratorius,28313,10,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S191929947,American Robin,Turdus migratorius,28313,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S201277678,American Robin,Turdus migratorius,28313,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S196756136,American Robin,Turdus migratorius,28313,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S191059714,American Robin,Turdus migratorius,28313,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S178049170,Cedar Waxwing,Bombycilla cedrorum,29618,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S182253943,Cedar Waxwing,Bombycilla cedrorum,29618,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S182135589,House Sparrow,Passer domesticus,31261,4,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S178319436,House Sparrow,Passer domesticus,31261,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S193589439,House Sparrow,Passer domesticus,31261,2,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S182253943,House Sparrow,Passer domesticus,31261,2,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S191929947,House Sparrow,Passer domesticus,31261,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,House Sparrow,Passer domesticus,31261,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S191059714,House Sparrow,Passer domesticus,31261,15,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S187802314,Eurasian Tree Sparrow,Passer montanus,31329,20,CN-11,,L34912376,天元公园 (Tianyuan Park),39.8774223,116.2605895,2024-07-20,08:40 AM,eBird - Traveling Count,60,1,2.414,,1
+S189360383,Eurasian Tree Sparrow,Passer montanus,31329,20,CN-11,,L6529689,朝阳公园 (Chaoyang Park),39.9395667,116.4792716,2024-07-29,09:00 AM,eBird - Traveling Count,100,1,2.414,,1
+S187210874,Eurasian Tree Sparrow,Passer montanus,31329,X,CN-11,,L34771865,西府颐园,39.883122,116.267765,2024-07-16,12:06 PM,eBird - Casual Observation,,0,,,1
+S182135589,House Finch,Haemorhous mexicanus,32034,6,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S190913218,House Finch,Haemorhous mexicanus,32034,5,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,House Finch,Haemorhous mexicanus,32034,6,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,House Finch,Haemorhous mexicanus,32034,5,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,House Finch,Haemorhous mexicanus,32034,2,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S182253943,House Finch,Haemorhous mexicanus,32034,3,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S191929947,House Finch,Haemorhous mexicanus,32034,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,House Finch,Haemorhous mexicanus,32034,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,House Finch,Haemorhous mexicanus,32034,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,House Finch,Haemorhous mexicanus,32034,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,House Finch,Haemorhous mexicanus,32034,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S191059714,House Finch,Haemorhous mexicanus,32034,10,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S190913218,Lesser Goldfinch,Spinus psaltria,32330,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,Lesser Goldfinch,Spinus psaltria,32330,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Lesser Goldfinch,Spinus psaltria,32330,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,Lesser Goldfinch,Spinus psaltria,32330,1,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S201275185,Lesser Goldfinch,Spinus psaltria,32330,2,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S192559836,Lesser Goldfinch,Spinus psaltria,32330,1,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S185648397,Lesser Goldfinch,Spinus psaltria,32330,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Lesser Goldfinch,Spinus psaltria,32330,6,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Lesser Goldfinch,Spinus psaltria,32330,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Lesser Goldfinch,Spinus psaltria,32330,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Lesser Goldfinch,Spinus psaltria,32330,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Lesser Goldfinch,Spinus psaltria,32330,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,Lesser Goldfinch,Spinus psaltria,32330,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S178639748,Lesser Goldfinch,Spinus psaltria,32330,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Lesser Goldfinch,Spinus psaltria,32330,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S191059714,Lesser Goldfinch,Spinus psaltria,32330,2,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S191059948,Lesser Goldfinch,Spinus psaltria,32330,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,10:30 AM,eBird - Traveling Count,20,1,.805,,1
+S182253943,American Goldfinch,Spinus tristis,32338,4,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2,,,,622027620
+S178320061,American Goldfinch,Spinus tristis,32338,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:23 PM,eBird - Casual Observation,,0,,,1
+S178320045,Chipping Sparrow,Spizella passerina,32708,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:23 PM,eBird - Casual Observation,,0,,,1
+S182253943,Field Sparrow,Spizella pusilla,32720,1,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S200391778,Lark Sparrow,Chondestes grammacus,32747,1,US-TX,Williamson,L37329422,Back of Randalls,30.5431838,-97.8657161,2024-10-26,06:30 PM,eBird - Stationary Count,30,1,,,1
+S178049170,Dark-eyed Junco,Junco hyemalis,32842,10,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Dark-eyed Junco,Junco hyemalis,32842,10,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178319436,Song Sparrow,Melospiza melodia,32995,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S182253943,Song Sparrow,Melospiza melodia,32995,4,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S199367563,Lincoln's Sparrow,Melospiza lincolnii,33028,4,US-TX,Williamson,L37329422,Back of Randalls,30.5431838,-97.8657161,2024-10-14,06:45 PM,eBird - Casual Observation,,0,,,1
+S190913218,California Towhee,Melozone crissalis,33068,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S178049170,California Towhee,Melozone crissalis,33068,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1,,,,622027487
+S178319436,California Towhee,Melozone crissalis,33068,2,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,Spotted Towhee,Pipilo maculatus,33108,1,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S201925311,Western Meadowlark,Sturnella neglecta,33287,8,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-11-09,02:00 PM,eBird - Casual Observation,,0,,,1
+S190913218,Hooded Oriole,Icterus cucullatus,33404,3,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S182135589,Red-winged Blackbird,Agelaius phoeniceus,33500,1,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S178319436,Red-winged Blackbird,Agelaius phoeniceus,33500,4,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S193589439,Red-winged Blackbird,Agelaius phoeniceus,33500,200,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S182253943,Red-winged Blackbird,Agelaius phoeniceus,33500,16,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S185648397,Red-winged Blackbird,Agelaius phoeniceus,33500,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Red-winged Blackbird,Agelaius phoeniceus,33500,30,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Red-winged Blackbird,Agelaius phoeniceus,33500,24,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Red-winged Blackbird,Agelaius phoeniceus,33500,160,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Red-winged Blackbird,Agelaius phoeniceus,33500,1,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S178639748,Red-winged Blackbird,Agelaius phoeniceus,33500,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Red-winged Blackbird,Agelaius phoeniceus,33500,1,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S185506240,Bronzed Cowbird,Molothrus aeneus,33549,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-07-05,03:07 PM,eBird - Casual Observation,,0,,,1
+S182135589,Brown-headed Cowbird,Molothrus ater,33556,2,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S178049170,Brown-headed Cowbird,Molothrus ater,33556,1,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-29,10:30 AM,eBird - Traveling Count,90,1,1.609,,1
+S178319436,Brown-headed Cowbird,Molothrus ater,33556,4,US-CA,San Mateo,L247966,Coyote Point County Park,37.5899626,-122.3215145,2024-05-30,10:00 AM,eBird - Traveling Count,120,1,1.609,,1
+S178068632,Brown-headed Cowbird,Molothrus ater,33556,1,US-CA,Santa Clara,L300659,Stanford University--campus,37.4321365,-122.1689129,2024-05-29,01:00 PM,eBird - Traveling Count,30,1,.966,,1
+S182253943,Brown-headed Cowbird,Molothrus ater,33556,2,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S177861825,Brewer's Blackbird,Euphagus cyanocephalus,33574,X,US-CA,Kern,L32504439,Outside Subway,34.991809,-118.941331,2024-05-28,01:19 PM,eBird - Casual Observation,,0,,,1
+S180224007,Common Grackle,Quiscalus quiscula,33576,X,US-DC,District of Columbia,L33045688,Washington Monument,38.890593,-77.034545,2024-06-08,06:31 PM,eBird - Casual Observation,,0,,,1
+S182253943,Common Grackle,Quiscalus quiscula,33576,8,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2,,,,622027625
+S192566985,Common Grackle,Quiscalus quiscula,33576,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S193589439,Great-tailed Grackle,Quiscalus mexicanus,33587,100,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201277678,Great-tailed Grackle,Quiscalus mexicanus,33587,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S176780249,Great-tailed Grackle,Quiscalus mexicanus,33587,2,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-05-24,10:30 AM,eBird - Stationary Count,60,0,,,1
+S178639748,Great-tailed Grackle,Quiscalus mexicanus,33587,8,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,10:55 AM,eBird - Stationary Count,15,1,,,1
+S178652638,Great-tailed Grackle,Quiscalus mexicanus,33587,5,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-06-01,11:10 AM,eBird - Stationary Count,40,1,,,1
+S191060301,Great-tailed Grackle,Quiscalus mexicanus,33587,5,US-TX,Williamson,L31788216,Quarry Park,30.5370832,-97.8622949,2024-08-11,10:15 AM,eBird - Traveling Count,45,1,.483,,1
+S191059714,Great-tailed Grackle,Quiscalus mexicanus,33587,2,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-08-11,09:30 AM,eBird - Traveling Count,45,1,.805,,1
+S201275185,Orange-crowned Warbler,Leiothlypis celata,33696,1,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S190913218,Common Yellowthroat,Geothlypis trichas,33749,1,US-CA,Los Angeles,L23094148,Ballona Saltwater Marsh--Area A,33.9714971,-118.4436535,2024-08-10,08:45 AM,eBird - Traveling Count,75,1,2.092,,1
+S182253943,Common Yellowthroat,Geothlypis trichas,33749,3,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S200391778,Common Yellowthroat,Geothlypis trichas,33749,1,US-TX,Williamson,L37329422,Back of Randalls,30.5431838,-97.8657161,2024-10-26,06:30 PM,eBird - Stationary Count,30,1,,,1
+S198516817,Common Yellowthroat,Geothlypis trichas,33749,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Common Yellowthroat,Geothlypis trichas,33749,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S182253943,Yellow Warbler,Setophaga petechia,33807,3,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S192559836,Yellow Warbler,Setophaga petechia,33807,1,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S201275185,Yellow-rumped Warbler,Setophaga coronata,33874,9,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S201277678,Yellow-rumped Warbler,Setophaga coronata,33874,7,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S183853635,Yellow-rumped Warbler,Setophaga coronata,33874,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-04-26,,eBird - Casual Observation,,0,,,1
+S193589439,new world warbler sp.,Parulidae sp.,34106,6,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1,,Wilson or Yellow
+S185648397,Summer Tanager,Piranga rubra,34141,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1,,,,622027594
+S191929947,Summer Tanager,Piranga rubra,34141,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S182135589,Northern Cardinal,Cardinalis cardinalis,34224,5,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S193589439,Northern Cardinal,Cardinalis cardinalis,34224,5,US-TX,Travis,L130766,Hornsby Bend (HOTE 037),30.2181988,-97.6458054,2024-09-01,10:10 AM,eBird - Traveling Count,120,1,2.575,,1
+S201275185,Northern Cardinal,Cardinalis cardinalis,34224,7,US-TX,Travis,L567534,Roy G. Guerrero Colorado River Metro Park,30.246172,-97.7049763,2024-11-03,08:40 AM,eBird - Traveling Count,110,1,1.609,,1
+S182253943,Northern Cardinal,Cardinalis cardinalis,34224,2,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S192559836,Northern Cardinal,Cardinalis cardinalis,34224,4,US-TX,Williamson,L512205,Brushy Creek Lake Park,30.5085076,-97.7719923,2024-08-24,07:00 AM,eBird - Traveling Count,40,1,1.127,,1
+S185648397,Northern Cardinal,Cardinalis cardinalis,34224,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Northern Cardinal,Cardinalis cardinalis,34224,2,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
+S198516817,Northern Cardinal,Cardinalis cardinalis,34224,9,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-12,08:20 AM,eBird - Traveling Count,165,1,2.736,,1
+S201277678,Northern Cardinal,Cardinalis cardinalis,34224,6,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-10-27,07:53 AM,eBird - Traveling Count,160,1,3.219,,1
+S192566985,Northern Cardinal,Cardinalis cardinalis,34224,2,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-08-24,07:55 AM,eBird - Traveling Count,30,1,.161,,1
+S196756136,Northern Cardinal,Cardinalis cardinalis,34224,9,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,09:26 AM,eBird - Traveling Count,39,1,.563,,1
+S196756637,Northern Cardinal,Cardinalis cardinalis,34224,5,US-TX,Williamson,L684204,Lake Creek Trail--West (Williamson Co.),30.4673656,-97.7771286,2024-09-28,10:05 AM,eBird - Traveling Count,25,1,.563,,1
+S178320076,Northern Cardinal,Cardinalis cardinalis,34224,X,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-05-30,11:23 PM,eBird - Casual Observation,,0,,,1
+S178656211,Northern Cardinal,Cardinalis cardinalis,34224,1,US-TX,Williamson,L32607191,Winkley Elementary School,30.537749,-97.865588,2024-06-01,11:50 AM,eBird - Traveling Count,20,1,.805,,1
+S182135589,Indigo Bunting,Passerina cyanea,34317,1,US-OH,Delaware,L5151152,Highbanks Metro Park--Nature Center,40.1519364,-83.0247572,2024-06-17,02:00 PM,eBird - Stationary Count,90,1,,,2
+S182253943,Indigo Bunting,Passerina cyanea,34317,2,US-OH,Union,L1137897,Glacier Ridge Metro Park--Honda Wetlands,40.1243893,-83.1819105,2024-06-18,09:00 AM,eBird - Traveling Count,90,1,1.609,,2
+S185648397,Painted Bunting,Passerina ciris,34331,3,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-07-06,09:20 AM,eBird - Traveling Count,75,1,1.609,,1
+S191929947,Painted Bunting,Passerina ciris,34331,1,US-TX,Williamson,L574289,Devine Lake Park,30.5832667,-97.8826046,2024-08-18,08:50 AM,eBird - Traveling Count,80,1,1.77,,1
