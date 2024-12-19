@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ImageModal from './ImageModal';
 import Stats from './Stats';
+
 const sampleStatsData = [
   {
     'species': 'Northern Cardinal',
@@ -113,21 +114,35 @@ function LifeList() {
   const [birdPhotos, setBirdPhotos] = useState({});
   const [modalOpen, setModalOpen] = useState(false);
   const [openedPhoto, setOpenedPhoto] = useState();
+  const [imageGallery, setImageGallery] = useState([]);
 
   useEffect(() => {
     fetch('/bird-photos.json')
       .then(response => response.json())
       .then(data => {
         setBirdPhotos(data);
-        console.log(data);
       });
   }, []);
+
+  const clickSpecies = (species) => {
+    console.log('clicked', species);
+    setModalOpen(true);
+    const newImageGallery = [];
+    birdPhotos[species].map((photo, _) => {
+      newImageGallery.push({
+        original: `birds/${species}/${photo.id}.jpg`,
+        thumbnail: `birds/${species}/${photo.id}.jpg`,
+        description: species,
+      });
+    });
+    setImageGallery(newImageGallery);
+  };
 
   return (
     <div className='w-full p-10 bg-gray-800 text-white font-raleway'>
       <h1 className='font-bold text-3xl mb-4 text-center'>Life List</h1>
       <Stats data={sampleStatsData} />
-      <div className='grid grid-cols-3 gap-x-8 gap-y-6'>
+      <div className='grid grid-cols-3 gap-x-8 gap-y-6 mt-6'>
         {Object.keys(birdPhotos).map((species, index) => {
           if (birdPhotos[species].length == 0) return;
 
@@ -140,16 +155,12 @@ function LifeList() {
                       <div 
                         key={p_index} 
                         className='flex flex-col gap-2'
-                        onClick={() => {
-                          setModalOpen(true);
-                          setOpenedPhoto(`birds/${species}/${photo.id}.jpg`);
-                          console.log(birdPhotos[species]);
-                          return;
-                        }}
+                        onClick={() => clickSpecies(species)}
                       >
                         <img 
                           src={`birds/${species}/${photo.id}.jpg`} 
                           alt={species}
+                          className='cursor-pointer'
                         />
                         <p className='w-full text-center text-white'>{species}</p>
                       </div>
@@ -186,7 +197,7 @@ function LifeList() {
           </React.Fragment>
         ))*/}
       </div>
-      <ImageModal isOpen={modalOpen} onClose={() => setModalOpen(false)} imgSrc={openedPhoto} />
+      <ImageModal isOpen={modalOpen} onClose={() => setModalOpen(false)} imageGallery={imageGallery} />
     </div>
   );
 }

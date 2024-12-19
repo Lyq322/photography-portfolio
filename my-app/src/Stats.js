@@ -1,6 +1,7 @@
 import React from 'react';
 import { Line, Pie } from 'react-chartjs-2';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend, LineElement, PointElement, LinearScale, Title, CategoryScale } from 'chart.js';
+import { FaBinoculars, FaCamera } from "react-icons/fa";
 
 // Register the required components
 ChartJS.register(LineElement, PointElement, ArcElement, LinearScale, Title, Tooltip, Legend, CategoryScale);
@@ -67,16 +68,29 @@ const Stats = ({ data }) => {
   };
 
   return (
-    <div className='flex flex-row p-6 w-full h-96 mx-auto'>
-      <div className='flex flex-col w-full'>
-        <div className='h-5'>
-          147 species since March 2024
+    <div className='flex flex-row gap-12 p-6 w-full mx-auto rounded-2xl bg-blue-900 bg-dark-blue'>
+      <div className='flex flex-col content-center gap-6'>
+        <div className='flex flex-col lg:flex-row gap-3'>
+          <div className='flex flex-row justify-between content-center bg-numbers pt-2 pb-3 px-5 rounded-2xl'>
+            <div className='flex flex-col gap-0 content-start'>
+              <span className='text-3xl'>147</span> 
+              <p className='text-sm'>species observed</p>
+            </div>
+            <FaBinoculars className='text-4xl text-white mt-3' />
+          </div>
+          <div className='flex flex-row justify-between content-center bg-numbers pt-2 pb-3 px-5 rounded-2xl'>
+            <div className='flex flex-col gap-0 content-start'>
+              <span className='text-3xl'>100</span> 
+              <p className='text-sm'>species photographed</p>
+            </div>
+            <FaCamera className='text-4xl text-white mt-3' />
+          </div>
         </div>
-        <div className='h-64 w-full'>
+        <div className='h-64 w-min'>
           <Pie data={pieChartData} />
         </div>
       </div>
-      <div>
+      <div className='flex-grow'>
         <h2>Cumulative Number of Species by Month</h2>
         <div className='h-96 w-full'>
           <Line data={lineChartData} />
